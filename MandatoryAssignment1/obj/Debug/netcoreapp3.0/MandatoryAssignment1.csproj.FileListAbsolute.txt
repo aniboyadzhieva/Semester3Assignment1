@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\netcoreapp3.0\MandatoryAssignment1.deps.json
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\netcoreapp3.0\MandatoryAssignment1.dll
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\netcoreapp3.0\MandatoryAssignment1.pdb
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\netcoreapp3.0\MandatoryAssignment1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\netcoreapp3.0\MandatoryAssignment1.AssemblyInfo.cs
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\netcoreapp3.0\MandatoryAssignment1.dll
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\netcoreapp3.0\MandatoryAssignment1.pdb
+C:\Users\User\source\repos\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\netcoreapp3.0\MandatoryAssignment1.csprojAssemblyReference.cache
